@@ -1,0 +1,15 @@
+{
+    "ip": "VanthaVa.aternos.me",
+    "port": "23203",
+    "name": "Guard 2",
+    "password": "27",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
+}
